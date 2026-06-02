@@ -1,8 +1,12 @@
 # Relatório de Teste - mobapps.com.br
+>
 
 > Projeto: Testes Manuais de Interface e Usabilidade
+> 
 > Site testado: mobapps.com.br
+> 
 > Tipo de teste: Manual
+> 
 > Status geral: Falhas pontuais identificadas
 
 
