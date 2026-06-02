@@ -34,26 +34,26 @@ Foram executados cenários de teste cobrindo:
 
 # 🐛 Falhas Encontradas
 
-CT-01 – Validação do campo Nome no formulário de interesse
+## CT-01 – Validação do campo Nome no formulário de interesse
 | Campo | Detalhe |
 |--------|---------|
 | ID | CT-01 |
-| Módulo | Formulário |
+| Modulo | Formulário |
 | Severidade | Baixa |
-| Prioridade | Média |
+| Prioridade | Media |
 | Ambiente | Chrome 137 |
 
-### Passos para reproduzir
+## Passos para reproduzir
 
 1. Acesse a home
 2. Clique em "Falar com especialista"
 3. Digitar numerais no campo de Nome
 
-### Resultado esperado 
+### Resultado esperado
 
 O sistema deve exibir uma mensagem de resposta inválida.
 
-## Resultado obtido
+### Resultado obtido
 
 O formulário é aceito e confirmado o envio.
 
