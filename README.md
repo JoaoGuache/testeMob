@@ -35,7 +35,7 @@ Foram executados cenários de teste cobrindo:
 
 | Campo | Detalhe |
 |--------|---------|
-| ID | CT-01 |
+| id | CT-01 |
 | Modulo | Formulario |
 | Severidade | Baixa |
 | Prioridade | Media |
@@ -47,11 +47,11 @@ Foram executados cenários de teste cobrindo:
 2. Clique em "Falar com especialista"
 3. Digitar numerais no campo de Nome
 
-**Resultado esperado**
+**Resultado previsto**
 
 O sistema deve exibir uma mensagem de resposta inválida.
 
-**Resultado obtido**
+**Resultado real**
 
 O formulário é aceito e confirmado o envio.
 
@@ -61,7 +61,7 @@ O formulário é aceito e confirmado o envio.
 
 | Campo | Detalhe |
 |---------|---------|
-| ID | CT-02 |
+| id | CT-02 |
 | Modulo | Botao |
 | Gravidade | Baixa |
 | Ambiente | Chrome |
@@ -72,11 +72,11 @@ O formulário é aceito e confirmado o envio.
 2. Navegue ate a parte do video do Vale Driver
 3. Clique no botao "Seja um caso de sucesso"
 
-### Resultado esperado
+### Resultado previsto
 
 Abertura do formulario para preenchimento com as informacoes do usuario.
 
-### Resultado obtido
+### Resultado real
 
 Nenhuma acao e reproduzida ao clicar no botao.
 
