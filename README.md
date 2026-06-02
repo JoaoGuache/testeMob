@@ -35,7 +35,7 @@ Foram executados cenários de teste cobrindo:
 
 | Campo | Detalhe |
 |--------|---------|
-| id | CT-01 |
+| Identificador | CT-01 |
 | Modulo | Formulario |
 | Severidade | Baixa |
 | Prioridade | Media |
@@ -61,7 +61,7 @@ O formulário é aceito e confirmado o envio.
 
 | Campo | Detalhe |
 |---------|---------|
-| id | CT-02 |
+| Identificador| CT-02 |
 | Modulo | Botao |
 | Gravidade | Baixa |
 | Ambiente | Chrome |
