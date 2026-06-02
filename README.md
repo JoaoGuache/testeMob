@@ -47,13 +47,13 @@ Foram executados cenários de teste cobrindo:
 2. Clique em "Falar com especialista"
 3. Digitar numerais no campo de Nome
 
-### Resultado esperado
+**Resultado A**
 
-O sistema deve exibir uma mensagem de resposta invalida.
+O sistema deve exibir uma mensagem de resposta inválida.
 
-### Resultado obtido
+**Resultado B**
 
-O formulario e aceito e confirmado o envio.
+O formulário é aceito e confirmado o envio.
 
 ---
 
