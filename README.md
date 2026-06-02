@@ -47,11 +47,11 @@ Foram executados cenários de teste cobrindo:
 2. Clique em "Falar com especialista"
 3. Digitar numerais no campo de Nome
 
-**Resultado A**
+**Resultado esperado**
 
 O sistema deve exibir uma mensagem de resposta inválida.
 
-**Resultado B**
+**Resultado obtido**
 
 O formulário é aceito e confirmado o envio.
 
